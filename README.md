@@ -17,7 +17,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-![alt text](image-3.png) ![alt text](image-4.png)
+![alt text](image.png) ![alt text](image-1.png)
 
 ## Reflection
 
