@@ -17,18 +17,18 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+![alt text](image-3.png) ![alt text](image-4.png)
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project is a drawing of a landscape that includes a frame, three flowers, red, blue, and pink, the sun, and a cloud.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - Two things about my project that I am proud of is the way I was able to write the algorithm for the sun. I had to think of a creative way to paint the sun without using redundant code. Another thing I am proud of is the way I painted the sky, because I was able to figure out a way to make almost everything sky blue without painting over the other parts of the painting.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - Something I would do differently if I had an opportunity to change something about my project is seperate the grass and flower into two different subclasses, because in the project, they are created in one class, which made the code long, so I wish I was able to split it into two so I just don't have one long code for one class.
